@@ -5,5 +5,3 @@ __pycache__
 .gitignore
 .vscode
 .env
-README.md
-docker-compose.yml
